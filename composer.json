@@ -1,0 +1,21 @@
+{
+    "name": "dietcake/dietcake_json-view",
+    "description": "Lorem ipsum",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xcezx",
+            "email": "main.xcezx@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/Dietcake/"
+        }
+    }
+}

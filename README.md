@@ -1,5 +1,9 @@
 # JsonView for DietCake
 
+[![Build Status](https://travis-ci.org/xcezx/dietcake_json-view.png?branch=master)](https://travis-ci.org/xcezx/dietcake_json-view)
+
+## What is this?
+
 `Controller` 内で値を生成し、テンプレートファイルを介さずに `JSON` 形式で出力するための `View` クラス
 
 ## Installation
@@ -37,3 +41,4 @@ class HomeController extends Controller
 ```json
 {"name":"John Doe"}
 ```
+
